@@ -1,0 +1,118 @@
+body{
+    background-color:#eaf6f6;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625em;
+    margin: 50px auto 0px auto;
+    color: #66BFBF;
+    line-height: 200%;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5em;
+    margin-top: 50px;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 200%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    
+
+}
+hr{
+    background-color: #EAF6F6;
+    border-style: dotted;
+    height: 0px;
+    width: 100px;
+    border-bottom:none;
+    border-top-width: 5px;
+}
+.my-photo{
+    height: 160px;
+    width: 160px;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+.progirl{
+    height: 160px;
+    width: 160px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.gymgirl{
+    height: 160px;
+    width: 160px;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+.top-cloud{
+    position: relative;
+    left: 250px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.footer-link{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+    width: 25%;
+    position: inline;
+}
+.BUTTON_JOE {
+    background: #11999E;
+    background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+    background-image: -moz-linear-gradient(top, #11999E, #11999E);
+    background-image: -ms-linear-gradient(top, #11999E, #11999E);
+    background-image: -o-linear-gradient(top, #11999E, #11999E);
+    background-image: -webkit-gradient(to bottom, #11999E, #11999E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: 100;
+    padding: 40px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_JOE:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .last-block{
+     background-color: #66BFBF;
+     margin: 10px auto 10px;
+ }
+ 
